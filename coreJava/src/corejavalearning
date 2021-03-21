@@ -1,0 +1,48 @@
+Java is a programming language.
+It is designed by OOPS concept.
+It is case sensitive language.
+Java requires below mentioned environment : 
+	JDK,
+	--JAR--(Java Archieved Repository)
+	--JRE--(Java Runtime Environment)
+	--JVM--(Java Virtual Machine)
+	--SRC--(Source file Repository) It contains only .java files.
+	--BIN--(Binary (ByteCode file) File Repository) . It contains only .class file.
+	 
+ ---Class/Interface
+     --Method
+       --Instant method (User defined method or Normal method)
+       --Main method 
+ 
+ ---Data Type
+     --No return value data type == void
+     --Primitive data type == int,double,byte,boolean,short-(not used),long,float-(not used),char-(not used).
+       Note : Primitive data type is mutable data type.
+      --Non-Primitive data type == Array,Object,Class,Interface,String.
+       Note : Non Primitive data type is immutable.
+       
+ ---Variable
+    --Local variable
+    --Instant or Global variable
+    --Static variable
+    
+ ---Instant method
+    --Constructor
+    --Static method
+    --Normal method
+    --Abstract method
+    --Method overloading
+    --Method overriding
+    
+ ---Java Array and String
+ ---Exception Handling
+ ---Java Statement
+   --If, If-Else,If-ElseIf&Else,Nested If
+   --Looping statements (While,Do-While,For loop)
+   --Switch case
+   
+ 
+    
+    
+    
+       
